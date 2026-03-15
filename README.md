@@ -24,8 +24,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
  
 ## Program
 ```
-Name : Sivasakthi S
-Reg No : 212225240151
+
 
 
 
